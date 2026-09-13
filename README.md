@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **C++, Python or JavaScript projects**
 
-- 🤝 I’m looking for help with **Data science and ML / AI development**
+- 🤝 I’m looking for help with **data science and ML / AI development**
 
 - 💬 Ask me about **C++, JavaScript and web development**
 
